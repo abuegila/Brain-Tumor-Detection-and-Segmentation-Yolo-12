@@ -10,7 +10,6 @@ Welcome to **Brain Tumor Detection and Segmentation (Yolo 12)**, a custom-curate
 - **Annotation Format**: YOLOv12 (segmentation)  
 - **Image Size**: Resized to **640×640** (stretched)  
 - **Preprocessing**:
-  - Auto-orientation of pixel data (EXIF orientation stripped)
   - Resized uniformly  
 - **No Augmentation Applied**: Raw dataset with no synthetic transformations
 

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Glioma', 'Meningioma', 'No_Tumor', 'Pituitary']
+
+roboflow:
+  workspace: graduation-project-t0e3l
+  project: my-first-project-m9r0w
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/graduation-project-t0e3l/my-first-project-m9r0w/2

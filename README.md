@@ -28,7 +28,7 @@ This collaborative annotation process ensures **accuracy**, **consistency**, and
 
 ---
 
-🔧 Installation & Setup
+## 🔧 Installation & Setup
 ```python
 # Step 1: Install PyTorch and essential packages
 pip install torch torchvision torchaudio

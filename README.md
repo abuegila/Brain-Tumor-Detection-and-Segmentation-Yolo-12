@@ -17,9 +17,8 @@ Welcome to **Brain Tumor Detection and Segmentation (Yolo 12)**, a custom-curate
 
 - **Sources**: The images were collected from multiple publicly available resources across the internet.
 - **Annotation**: All segmentation labels were manually created by:
-  - The project author
-  - A certified medical doctor
-- **Review**: Every annotation was carefully reviewed and verified by a professional radiologist to ensure high-quality and clinically relevant labeling.
+  - Yusuf Abu Egila
+  - Abdulrahman Ali
 
 This collaborative annotation process ensures **accuracy**, **consistency**, and **real-world reliability**, making the dataset suitable for training medical AI systems.
 

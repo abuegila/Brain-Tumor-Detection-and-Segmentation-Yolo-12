@@ -127,7 +127,7 @@ Edit
   title={Brain Tumor MRI Dataset for YOLOv12 Segmentation},
   author={Yusuf Abu Egila},
   year={2025},
-  url={https://github.com/abuegila/Brain-Tumor-Detection-and-Segmentation-Yolo-12.git}
+  url={https://github.com/abuegila/Brain-Tumor-Detection-and-Segmentation-Yolo-12}
 }
 🙌 Acknowledgements
 🧠 Medical annotation support by: Abdulrahman Ali

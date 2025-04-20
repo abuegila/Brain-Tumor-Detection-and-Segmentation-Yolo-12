@@ -29,7 +29,7 @@ This collaborative annotation process ensures **accuracy**, **consistency**, and
 ---
 
 🔧 Installation & Setup
-<pre> ```python
+```python
 # Step 1: Install PyTorch and essential packages
 pip install torch torchvision torchaudio
 
@@ -41,7 +41,7 @@ pip install flash-attn==2.7.3
 
 # Step 4: Install remaining dependencies from the official YOLOv12 requirements file
 pip install -U -r https://raw.githubusercontent.com/ultralytics/ultralytics/master/requirements.txt
- ``` </pre>
+ ```
 
 🔒 License
 This dataset is private and intended for research and educational use only.
